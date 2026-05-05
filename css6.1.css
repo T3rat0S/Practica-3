@@ -1,0 +1,18 @@
+#div1, #div2 {
+    position: absolute;
+    width: 320px;
+    height: 320px;
+}
+
+#div1 {
+    background-color: blue;
+    left: 50px;
+    top: 50px;
+}
+
+#div2 {
+    background-image: url(smale.png);
+    clip: rect(10px, 240px, 280px, 20px);
+    left: 100px;
+    top: 100px;
+}

@@ -1,0 +1,9 @@
+ol {
+    margin-left: 20px;
+}
+
+ul li {
+    list-style-type: upper-roman;
+    list-style-image: url(one.png);
+    padding-left: 10px;
+}
