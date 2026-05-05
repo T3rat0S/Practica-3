@@ -1,4 +1,7 @@
-<!DOCTYPE HTML> <html> <head> <meta charset="utf-8"> 
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8"> 
 <STYLE type="text/css"> h1 {background-color:rgb(140,220,200)} 
 ul {background-color:rgb(200,160,200)}
  ol {background-color:#DAFFC3}
